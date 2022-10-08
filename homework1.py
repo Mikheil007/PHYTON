@@ -9,3 +9,5 @@ elif num < 1 or num > 7:
 elif num > 1 and num < 6:
     print('not weekend')
 
+
+
